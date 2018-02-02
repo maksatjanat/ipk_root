@@ -1,0 +1,39 @@
+/*ÖÂÅÒ È ÎÒÑÒÓÏ ÑÍÈÇÓ ÄËß ÁËÎÊÎÂ*/
+.head-block,.top-menu,.top-material,.left-sidebar,.content{
+    background:#ccc;
+    margin-bottom:1px;
+}
+/*ÂÛÑÎÒÀ ØÀÏÊÈ*/
+.head-block{
+  background:url(../images/rus.jpg) no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+/*ÂÛÑÎÒÀ ÌÅÍŞ*/
+.top-menu{
+    background:#daf2fe;
+}
+.top-menu ul{
+    padding-left:0;
+    margin-bottom:0;
+}
+.top-menu li{
+    display:inline-block;
+    margin-left:10px;
+    padding:3px 10px;
+}
+/*ÂÛÑÎÒÀ ÁËÎÊÀ ÂÀÆÍÛÅ ÌÀÒÅĞÈÀËÛ*/
+.top-material{
+    height:200px;
+}
+/*ÂÛÑÎÒÀ ÑÀÉÄÁÀĞÀ È ÁËÎÊÀ ÊÎÍÒÅÍÒ*/
+.left-sidebar,.content{
+    height:300px;
+}
+/*ÃĞÀÍÈÖÀ Ó ÊÎÍÒÅÍÒÀ*/
+.content{
+    border-left:1px solid #fff;
+}

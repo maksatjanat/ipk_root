@@ -1,0 +1,484 @@
+.log
+{
+  margin-left: 10px;
+  width: 150px
+}
+body{
+  text-align: justify;color:black;overflow-x: hidden;"
+}
+.language{font-family:tahoma;display:inline-block;font-size:19px;color:#fff;}
+.background-fone_abiturient {
+  background: url("../../../menu_left/abiturient/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+  .background-fone_sovet {
+  background: url("../../university/info_sovet/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_fizika {
+  background: url("../fizika/img/aipet1.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_kib {
+  background: url("../kib/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_ik {
+  background: url("../ik/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_kirya {
+  background: url("../kirya/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_eiapu {
+  background: url("../eiapu/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_eoiup {
+  background: url("../eoiup/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_ikt {
+  background: url("../ikt/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_sd {
+  background: url("../sd/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_epp {
+  background: url("../epp/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_vm {
+  background: url("../vm/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_pte {
+  background: url("../pte/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_tey{
+  background: url("../tey/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_iya{
+  background: url("../iya/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_essis{
+  background: url("../essis/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_bzhizos{
+  background: url("../bzhizos/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_kt{
+  background: url("../kt/img/backfone.png") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_fv{
+  background: url("../fv/img/backfone.JPG") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_tks{
+  background: url("../tks/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_toe{
+  background: url("../toe/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+  text-shadow: 3px 3px 3px black;
+}
+.background-fone_e{
+  background: url("../e/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_suat{
+  background: url("../suat/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_is{
+  background: url("../is/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_tef{
+  background: url("../tef/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_eef{
+  background: url("../eef/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_frts{
+  background: url("../frts/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_fait{
+  background: url("../fit/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_idm{
+  background: url("../../../idm/icons/idm_icon.png") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  margin-top: 60px;
+  min-height: 669px;
+}
+/*.background-fone_fdo{
+  background: url("../../../ipk/img/rus.png") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}*/
+.background-fone_fdo_eng{
+  background: url("../../../ipk/img/eng.png") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%; height: auto;
+  min-height: 669px;
+}
+.background-fone_fdo_kz{
+  background: url("../../../ipk/img/kaz.png") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%; height: auto;
+  min-height: 669px;
+}
+.background-fone_leader{
+  background: url("../../university/img/backfone.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_umd{
+  background: url("../../../umd/img/umd.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_umd_eng{
+  background: url("../../../umd/img/umd_eng.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.background-fone_umd_kz{
+  background: url("../../../umd/img/umd_kz.jpg") no-repeat center top;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  min-height: 669px;
+}
+.loop img:hover{
+  transform: scale(1.2);
+}
+.blackout {
+  background-color: rgba(0,0,0,0.5);
+  position: relative;
+  width: 100%;
+  min-height: 669px;
+  display: block;
+}
+.blackout1 {
+  background-color: rgba(0,0,0,0);
+  position: relative;
+  width: 100%;
+  display: block;
+}
+.typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.nav-panel ul li {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  font-size: 16px;
+  float: left;
+  margin-top: 3px;
+}
+.nav-panel ul li a {
+  color: #fff;
+  text-transform: uppercase;
+}
+.nav-panel ul li a:hover {
+  text-decoration: none;
+}
+.nav-header {
+  font-size: 36px;
+  margin-top: 70px;
+}
+.paragraph {
+  margin: 0px;
+  font-size: 16px;
+}
+.logo {
+  width: 200px;
+  height: 100px;
+}
+.paragraph2 {
+  font-size: 16px;
+}
+.headhesive {
+  position: fixed;
+  width: 100%;
+  transition: 0.1s;
+  transform: translateY(-100%);
+}
+.headhesive--stick {
+  background: #fff;
+  transform: translateY(0);
+  z-index: 1;
+  border-bottom: 1px solid #ccc;
+}
+.imgres1 {
+  width: 100%;
+  height: 100%;
+  margin-top: 180px;
+}
+.imgres2 {
+  width: 100%;
+  height: 100%;
+}
+.imgres3 {
+  width: 100%;
+  height: 100%;
+}
+.imgres4 {
+  width: 100%;
+  height: 100%;
+  margin-top: 60px;
+}
+.img-pos {
+  width: 100%;
+  height: 100%;
+}
+.float1 {
+  float: right;
+}
+.fotorama {
+  width: 100%;
+  height: 100%;
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-o-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.gramota:hover{
+    transform: scale(1.9);
+    -webkit-transform: scale(1.9);
+    -o-transform: scale(1.9);
+    -moz-transform: scale(1.9);
+    transition: 0.5s;
+}
+.lang{
+  font-size:20px; 
+  text-decoration:none; 
+  color:white;
+}
+.lang img{
+  width: 45px;
+}
+.lang img:hover{
+  transform: scale(1.2);
+}
+.header{width: 104%;
+margin-left:-15px}
+body {
+	overflow-x: hidden;
+}
+td {
+  padding: 10px;
+}

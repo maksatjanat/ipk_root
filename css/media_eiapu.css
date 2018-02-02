@@ -1,0 +1,190 @@
+@media only screen and (max-width: 1200px) {
+  .imgres2 {
+    margin-top: 50px;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .nav-panel ul li {
+    margin-top: 13px;
+  }
+  .nav-panel ul {
+    display: none;
+  }
+  .imgres1 {
+    margin-top: 0px;
+  }
+  .imgres2 {
+    margin-top: 100px;
+  }
+  .block2-pos {
+    margin-top: 10px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .block2-pos {
+    margin-top: 180px;
+  }
+  .float1 {
+    float: left;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .float1 {
+    float: left;
+  }
+}
+@media only screen and (min-width: 0px) {
+  .nav-panel ul li {
+    width: 100%;
+  }
+  .imgres1 {
+    height: 200px;
+    width: 230px;
+  }
+  .imgres2 {
+    height: 220px;
+    width: 230px;
+    margin: 0px;
+  }
+  .imgres3 {
+    height: 220px;
+    width: 230px;
+  }
+  .img-pos {
+    width: 200px;
+    height: 230px;
+    margin: auto;
+  }
+}
+@media only screen and (min-width: 320px) {
+  .nav-panel ul li {
+    width: 100%;
+  }
+  .imgres1 {
+    height: 200px;
+    width: 230px;
+  }
+  .imgres2 {
+    height: 320px;
+    width: 330px;
+    margin: 0px;
+  }
+  .imgres3 {
+    height: 320px;
+    width: 330px;
+  }
+  .img-pos {
+    width: 200px;
+    height: 230px;
+    margin: auto;
+  }
+}
+@media only screen and (min-width: 480px) {
+  .nav-panel ul li {
+    width: 100%;
+  }
+  .imgres1 {
+    height: 400px;
+    width: 430px;
+  }
+  .imgres2 {
+    height: 420px;
+    width: 430px;
+    margin: 0px;
+  }
+  .imgres3 {
+    height: 420px;
+    width: 430px;
+  }
+  .img-pos {
+    width: 400px;
+    height: 430px;
+    margin: auto;
+  }
+  .img-pos2 {
+    height: 420px;
+    width: 430px;
+    margin: 0px auto;
+  }
+  .img-pos3 {
+    width: 420px;
+    height: 430px;
+    margin: auto;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .nav-panel ul li {
+    width: 16.1%;
+  }
+  .imgres1 {
+    height: 400px;
+    width: 430px;
+  }
+  .imgres2 {
+    height: 250px;
+    width: 260px;
+  }
+  .imgres3 {
+    height: 320px;
+    width: 330px;
+  }
+  .imgres4 {
+    height: 320px;
+    width: 330px;
+  }
+  .img-pos {
+    width: 400px;
+    height: 430px;
+    margin: auto;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .nav-panel ul li {
+    width:16%;
+  }
+  .imgres1 {
+    height: 300px;
+    width: 330px;
+  }
+  .imgres2 {
+    height: 320px;
+    width: 330px;
+  }
+  .imgres3 {
+    height: 200px;
+    width: 170px;
+  }
+  .imgres4 {
+    height: 320px;
+    width: 330px;
+  }
+  .nav-panel ul {
+    display: block !important;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .nav-panel ul li {
+    width: 16.1%;
+  }
+  .imgres1 {
+    height: 400px;
+    width: 430px;
+  }
+  .imgres2 {
+    height: 400px;
+    width: 430px;
+  }
+  .imgres3 {
+    height: 300px;
+    width: 437px;
+  }
+  .imgres4 {
+    height: 400px;
+    width: 430px;
+  }
+  .fotorama {
+    width: 877.5px;
+    height: 250px;
+    margin: auto;
+  }
+}
