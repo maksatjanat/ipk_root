@@ -5,7 +5,7 @@
 	<!--meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge"-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Институт повышения квалификации и двудипломного образования</title>
+	<title>Institute for Advanced Studies and two- Diploma Education</title>
 
 	<meta name="Keywords" content="Курсы повышения квалификации,
 	Функции оперативного персонала электрических станций,
@@ -36,22 +36,22 @@
 	Автоматизация технологических процессов на контроллерах Simatic 1500 1200
 	">
 
-	<link rel="stylesheet" href="./css/style.css">
-	<link rel="stylesheet" href="./css/main.css">
-	<link rel="stylesheet" href="./css/media_eiapu.css">
-	<link rel="stylesheet" href="./css/bootstrap.css">
-	<link rel="stylesheet" href="./css/latofonts.css">
-	<!--link rel="stylesheet" href="./css/fotorama.css" -->
+	<link rel="stylesheet" href="../css/style.css">
+	<link rel="stylesheet" href="../css/main.css">
+	<link rel="stylesheet" href="../css/media_eiapu.css">
+	<link rel="stylesheet" href="../css/bootstrap.css">
+	<link rel="stylesheet" href="../css/latofonts.css">
+	<!--link rel="stylesheet" href="../css/fotorama.css" -->
 	<link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
 	<!-- 6. Подключить CSS виджета "Bootstrap datetimepicker" -->  
-	<link rel="stylesheet" href="./css/bootstrap-datetimepicker.min.css"/>
+	<link rel="stylesheet" href="../css/bootstrap-datetimepicker.min.css"/>
 		
-<script src="js/jquery.min.js"></script> <!-- 33 KB -->
-<script src="js/bootstrap.min.js"></script>
+<script src="../js/jquery.min.js"></script> <!-- 33 KB -->
+<script src="../js/bootstrap.min.js"></script>
   <!-- 2. Подключить скрипт moment-with-locales.min.js для работы с датами -->
-<script src="js/moment-with-locales.min.js"></script>
+<script src="../js/moment-with-locales.min.js"></script>
 <!-- 4. Подключить скрипт виджета "Bootstrap datetimepicker" -->
-<script src="js/bootstrap-datetimepicker.min.js"></script>
+<script src="../js/bootstrap-datetimepicker.min.js"></script>
 
 
 <script Language="JavaScript">
@@ -106,7 +106,7 @@ function ajax(param)
 </head>
 <style type="text/css">
 #block1.background-fone_fdo{
-background: url("images/rus.png") no-repeat center top;
+background: url("../images/rus.png") no-repeat center top;
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
@@ -173,7 +173,7 @@ body {
 			
  			<nav role="navigation" class="navbar navbar-default" style="background:#010039;height:76px;font-size:16px;border-color:#010039;">
 				<div class="navbar-header" style="margin-left: 30px;">
-					<a href="index.php"><img src="../images/Menu/log_rus.png" class="log" style="width:28%;margin:-15px;margin-top:0;"></a>
+					<a href="../index.php"><img src="../images/Menu/log_rus.png" class="log" style="width:28%;margin:-15px;margin-top:0;"></a>
 				</div>	
 					<ul class="navbar-right"  style="margin-right: 30px;">
 						<a href="index_kaz.php"><p style="font-family:fantasy;display:inline-block;font-size:22px;">KZ</p></a>
@@ -219,12 +219,12 @@ body {
 							<a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown">ИПКиДО
 								<span class="caret"></span></a>
 					<ul class="dropdown-menu" style="background:#d11633">
-						<li role="presentation"><a role="menuitem" tabindex="-1" href="./index.php#block2">Курсы повышения квалификации</br>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index_eng.php#block2">Курсы повышения квалификации</br>
 																											и переподготовки специалистов</a></li>
-						<li role="presentation"><a role="menuitem" tabindex="-1" href="./index.php#block3">Кадровый состав</a></li>
-						<li role="presentation"><a role="menuitem" tabindex="-1" href="./index.php#block6">План-График 2017г.</a></li>
-						<li role="presentation"><a role="menuitem" tabindex="-1" href="./index.php#block4">Объявления</a></li>
-						<li role="presentation"><a role="menuitem" tabindex="-1" href="./index.php#block5">Контакты</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index_eng.php#block3">Кадровый состав</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index_eng.php#block6">План-График 2017г.</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index_eng.php#block4">Объявления</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index_eng.php#block5">Контакты</a></li>
 					</ul>
 						</li>
 							<li class="dropdown">
@@ -232,59 +232,59 @@ body {
 									<span class="caret"></span>
 								</a>
 						<ul class="dropdown-menu" style="background:#d11633">
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./mini_mba.php#block8">Управление внутренними проектами</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./mini_mba2.php#block8">Управление изменениями</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./study_process.php#block8">Технология обучения MiniMBA</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./intro_MBA.php">Заявка на обучение MiniMBA</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../mini_mba_eng.php#block8">Управление внутренними проектами</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../mini_mba2_eng.php#block8">Управление изменениями</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../study_process_eng.php#block8">Технология обучения MiniMBA</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../intro_MBA_eng.php">Заявка на обучение MiniMBA</a></li>
 						</ul>
 					</li>
 					<li class="dropdown">
 						<a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown">Учебные центры<span class="caret"></span></a>
 						<ul class="dropdown-menu" style="background:#d11633">
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./uchebn_centre.php#block8">
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../uchebn_centre_eng.php#block8">
 							Учебный центр в области экспертизы
 							<br> энергосбережения и повышения энергоэффективности</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./language">
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../language/index_eng.php">
 							Центр обучения языкам и перевода</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./programm#block8">
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="index_eng.php#block8">
 							Школа современного программирования</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./intro_centre.php">Заявка на обучение в центре</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../intro_centre_eng.php">Заявка на обучение в центре</a></li>
 						</ul>
 					</li>
 					<li class="dropdown">
 						<a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown">Двудипломное образование<span class="caret"></span></a>
 						<ul class="dropdown-menu" style="background:#d11633;">
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./DUO_MEI.php#block5">НИУ МЭИ</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../DUO_MEI_eng.php#block5">НИУ МЭИ</a></li>
 							<!--li role="presentation"><a role="menuitem" tabindex="-1" href="menu_left/sotrudnik/index.html">Самарский университет</a></li>
 							<li role="presentation"><a role="menuitem" tabindex="-1" href="student/index.html#block3">НИЯУ МИФИ</a></li--> 
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./intro_MEI.php">Заявка на обучение</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../intro_MEI_eng.php">Заявка на обучение</a></li>
 						</ul>
 					</li>
 					<li class="dropdown">
 							<a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown">План-График на 2018 год
 								<span class="caret"></span></a>
 						<ul class="dropdown-menu" style="background:#d11633;">
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./docs/Plan_2018_adminstr.pdf">Курсы делового<br>администрирования</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./docs/Plan_2018_teplov.pdf">Тепловые электростанции<br>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../docs/Plan_2018_adminstr.pdf">Курсы делового<br>администрирования</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../docs/Plan_2018_teplov.pdf">Тепловые электростанции<br>
 																												и котельные установки</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./docs/Plan_2018_electro.pdf">Электрические сети и системы</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./docs/ee.pdf">Энергоснабжение и энергосбережение</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./docs/Plan_2018_yazyk.pdf">Языковые курсы</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./docs/Ekologiya.pdf">Экология и БЖД</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./docs/telecommunikacii.pdf">Телекоммуникации</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./docs/IT.pdf">IT-технологии</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./docs/automation.pdf">Автоматизация ТП</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./intropage.php">Заявка на обучение</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../docs/Plan_2018_electro.pdf">Электрические сети и системы</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../docs/ee.pdf">Энергоснабжение и энергосбережение</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../docs/Plan_2018_yazyk.pdf">Языковые курсы</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../docs/Ekologiya.pdf">Экология и БЖД</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../docs/telecommunikacii.pdf">Телекоммуникации</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../docs/IT.pdf">IT-технологии</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../docs/automation.pdf">Автоматизация ТП</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../intropage_eng.php">Заявка на обучение</a></li>
 						</ul>
 						</li>
 						<li class="dropdown">
 							<a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown">Кабинет заявок
 								<span class="caret"></span></a>
 						<ul class="dropdown-menu" style="background:#d11633;">
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./register.php">Регистрация</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./login.php">Войти</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./intropage.php">Заявка на обучение</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="./logout.php">Выйти</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../register.php">Регистрация</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../login.php">Войти</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../intropage.php">Заявка на обучение</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../logout.php">Выйти</a></li>
 						</ul>
 					</li>
 					</ul>

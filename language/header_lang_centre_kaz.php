@@ -166,13 +166,13 @@ body {
 			<nav role="navigation" class="navbar navbar-default" style="background:#010039;height:76px;font-size:16px;border-color:#010039; margin-right: 0px;">
 					
 			<div class="navbar-header" style="margin-left: 30px;">
-				<a href="../index.php"><img src="../images/Menu/log_kaz.png" class="log" style="width:28%;	margin-top:4px;"></a>
+				<a href="../index_kaz.php"><img src="../images/Menu/log_kaz.png" class="log" style="width:28%;	margin-top:4px;"></a>
 			</div>	
 			<ul class="nav navbar-nav navbar-right" style="margin-right:30px;">
 			
 				<a href="index_kaz.php"><p style="font-family:fantasy;display:inline-block;font-size:22px;">KZ</p></a>
 				<a href="index.php"><p style="font-family:fantasy;display:inline-block;font-size:22px;">RU</p></a>
-				<!--a href="index_eng.html"><p style="font-family:fantasy;display:inline-block;font-size:22px;">EN</p></a-->
+				<a href="index_eng.php"><p style="font-family:fantasy;display:inline-block;font-size:22px;">EN</p></a>
 			
 			</ul>	
 		</nav>
@@ -267,11 +267,11 @@ body {
 							<a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown">ИПКиДО
 								<span class="caret"></span></a>
 					<ul class="dropdown-menu" style="background:#d11633">
-						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index.php#block2">Мамандарды біліктілігін арттыру <br>және қайта даярлау курстары</a></li>
-						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index.php#block3">Қызметкерлер</a></li>
-						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index.php#block6">Жоспар-График 2017ж.</a></li>
-						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index.php#block4">Хабарландырулар</a></li>
-						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index.php#block5">Байланыс</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index_kaz.php#block2">Мамандарды біліктілігін арттыру <br>және қайта даярлау курстары</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index_kaz_kaz.php#block3">Қызметкерлер</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index_kaz.php#block6">Жоспар-График 2017ж.</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index_kaz.php#block4">Хабарландырулар</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../index_kaz.php#block5">Байланыс</a></li>
 					</ul>
 						</li>
 							<li class="dropdown">
@@ -279,20 +279,20 @@ body {
 									<span class="caret"></span>
 								</a>
 						<ul class="dropdown-menu" style="background:#d11633">
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="../mini_mba.php#block8">Ішкі жобаларды басқару</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="../mini_mba2.php#block8">Өзерістерді басқару</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="../study_process.php#block8">MiniMBA оқу технологиясы</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="../intro_MBA.php">MiniMBA оқуға өтініш</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../mini_mba_kaz.php#block8">Ішкі жобаларды басқару</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../mini_mba2_kaz.php#block8">Өзерістерді басқару</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../study_process_kaz.php#block8">MiniMBA оқу технологиясы</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../intro_MBA_kaz.php">MiniMBA оқуға өтініш</a></li>
 						</ul>
 					</li>
 					<li class="dropdown">
 						<a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown">Оқу орталықтары<span class="caret"></span></a>
 						<ul class="dropdown-menu" style="background:#d11633">
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="../uchebn_centre.php#block8">
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../uchebn_centre_kaz.php#block8">
 							Энергия үнемдеу және энергия тиімділігін<br> сараптау саласындағы оқу орталығы</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="../centre_of_language.php#block8">
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="index_kaz.php#block8">
 							Аудару мен тілдерді үйренетін орталық</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="../programm#block8">
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../programm/index_kaz.php#block8">
 							Заманауи бағдарламалау мектебі</a></li>
 							<li role="presentation"><a role="menuitem" tabindex="-1" href="../intro_centre.php">Орталықта оқуға өтініш</a></li>
 						</ul>
@@ -300,10 +300,10 @@ body {
 					<li class="dropdown">
 						<a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown">Екі дипломды білім беру<span class="caret"></span></a>
 						<ul class="dropdown-menu" style="background:#d11633;">
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="../DUO_MEI.php#block5">НИУ МЭИ</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../DUO_MEI_kaz.php#block5">НИУ МЭИ</a></li>
 							<!--li role="presentation"><a role="menuitem" tabindex="-1" href="menu_left/sotrudnik/index.html">Самарский университет</a></li>
 							<li role="presentation"><a role="menuitem" tabindex="-1" href="student/index.html#block3">НИЯУ МИФИ</a></li--> 
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="../intro_MEI.php">Оқуға өтініш</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../intro_MEI_kaz.php">Оқуға өтініш</a></li>
 						</ul>
 					</li>
 					<li class="dropdown">
@@ -320,7 +320,7 @@ body {
 							<li role="presentation"><a role="menuitem" tabindex="-1" href="../docs/telecommunikacii.pdf">Телекоммуникациялар</a></li>
 							<li role="presentation"><a role="menuitem" tabindex="-1" href="../docs/IT.pdf">IT-технологиялар</a></li>
 							<li role="presentation"><a role="menuitem" tabindex="-1" href="../docs/automation.pdf">ТП Автоматтандару</a></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="../intropage.php">Оқуға өтініш</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="../intropage_kaz.php">Оқуға өтініш</a></li>
 						</ul>
 						</li>
 						<li class="dropdown">

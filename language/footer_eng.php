@@ -3,14 +3,14 @@
 		<div class="row">
 			<footer>
 				<div class="col-md-12 col-sm-12 col-xs-12" style="border-bottom: 2px solid #CCC;">
-					<p id="block7" class="nav-header">Контактная информация</p>
+					<p id="block7" class="nav-header">Contact Information</p>
 				</div>	
 				
 				<div class="col-md-8 col-sm-8 col-xs-12" style="text-align: center;">
 					<div style="margin-top: 51px; margin-left: 50%;">
-						<p>Адрес: Алматы, ул. А. Байтурсынова 126, корпус А-325</p>
-						<p>Телефон: 8 (727) 2927481, 8 (727)2925480; <br>Факс: 8 (727) 2927481</p>
-						<p>Электронная почта: <a href="mailto:fdo@aipet.kz?subject=Курсы повышения квалификации">fdo@aipet.kz</a>, <a href="mailto:kpk@aipet.kz?subject=Курсы повышения квалификации">kpk@aipet.kz</a></p>
+						<p>Address: Almaty, A. Baytursynov 126, building A-325</p>
+						<p>Phone number: 8 (727) 2927481, 8 (727)2925480; <br>Fax: 8 (727) 2927481</p>
+						<p>Email: <a href="mailto:fdo@aipet.kz?subject=Курсы повышения квалификации">fdo@aipet.kz</a>, <a href="mailto:kpk@aipet.kz?subject=Курсы повышения квалификации">kpk@aipet.kz</a></p>
 					</div>
 				</div>
 				<div class="col-md-12 col-sm-12 col-xs-12" style="border-top: 2px solid #CCC; margin-top: 30px;"></div>

@@ -19,11 +19,11 @@
 	</div>
 <!-- конец подвала -->
 
-<script src="../js/headhesive.js"></script>
-<script src="../js/eskju.jquery.scrollflow.min.js"></script>
-<script src="../js/fotorama.js"></script> <!-- 16 KB -->
-<script src="../js/typed.js"></script>
-<script src="../js/main.js"></script>
+<script src="./js/headhesive.js"></script>
+<script src="./js/eskju.jquery.scrollflow.min.js"></script>
+<script src="./js/fotorama.js"></script> <!-- 16 KB -->
+<script src="./js/typed.js"></script>
+<script src="./js/main.js"></script>
 
 <script>
 // после загрузки страницы

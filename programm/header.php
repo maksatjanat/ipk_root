@@ -178,7 +178,7 @@ body {
 					<ul class="navbar-right"  style="margin-right: 30px;">
 						<a href="index_kaz.php"><p style="font-family:fantasy;display:inline-block;font-size:22px;">KZ</p></a>
 						<a href="index.php"><p style="font-family:fantasy;display:inline-block;font-size:22px;">RU</p></a>
-						<!--a href="index_eng.html"><p style="font-family:fantasy;display:inline-block;font-size:22px;">EN</p></a-->
+						<a href="index_eng.php"><p style="font-family:fantasy;display:inline-block;font-size:22px;">EN</p></a>
 					</ul>
 				
 			</nav>
