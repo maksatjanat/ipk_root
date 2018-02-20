@@ -1,0 +1,64 @@
+
+--
+-- База данных: `stats`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Структура таблицы `ips`
+--
+
+CREATE TABLE IF NOT EXISTS `ips` (
+  `ip_id` int(12) NOT NULL,
+  `ip_address` varchar(50) NOT NULL
+) ENGINE=InnoDB AUTO_INCREMENT=22 DEFAULT CHARSET=utf8;
+
+
+
+-- --------------------------------------------------------
+
+--
+-- Структура таблицы `visits`
+--
+
+CREATE TABLE IF NOT EXISTS `visits` (
+  `visit_id` int(12) NOT NULL,
+  `date` date NOT NULL,
+  `hosts` int(12) NOT NULL,
+  `views` int(12) NOT NULL
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
+
+
+
+--
+-- Индексы сохранённых таблиц
+--
+
+--
+-- Индексы таблицы `ips`
+--
+ALTER TABLE `ips`
+  ADD PRIMARY KEY (`ip_id`);
+
+--
+-- Индексы таблицы `visits`
+--
+ALTER TABLE `visits`
+  ADD PRIMARY KEY (`visit_id`);
+
+--
+-- AUTO_INCREMENT для сохранённых таблиц
+--
+
+--
+-- AUTO_INCREMENT для таблицы `ips`
+--
+ALTER TABLE `ips`
+  MODIFY `ip_id` int(12) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=22;
+--
+-- AUTO_INCREMENT для таблицы `visits`
+--
+ALTER TABLE `visits`
+  MODIFY `visit_id` int(12) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=5;
+

@@ -32,6 +32,7 @@ if(!isset($_SESSION["session_username"])&&!isset($_SESSION["session_password"]))
 				<button type="button" class="btn btn-primary" id="DATEUP" name="DATEUP">Обновить дату</button>
 				<button type="button" class="btn btn-primary" id="SENDSQL" name="SENDSQL">Отправить запрос</button>
 				<button type="button" class="btn btn-primary" id="show_proposal" name="show_proposal">Посмотреть предложения</button>
+				<button type="button" class="btn btn-info" id="show_stats" name="show_stats">Статистика посещения</button>
 				<textarea rows="4" maxlength="500" class="form-control" id="SQLZAPR" name="SQLZAPR"> </textarea>
 				<!-- Элемент HTML с id равным datetimepicker1 -->
 				 				
@@ -91,6 +92,9 @@ $(document).ready(function(){
 	});
 	$("#show_proposal").click(function(e){
 		ajax_search_proposal();
+	});
+	$("#show_stats").click(function(e){
+		ajax_search_stats();
 	});
 	$("#select_direct").click(function(e){ 
         ajax_search_direct(); 
@@ -170,6 +174,12 @@ function ajax_search(){
 function ajax_search_proposal(){
 	$("#search_results").show();
 	$("#search_results").load('./proposal_find.php');	
+}
+
+//функция показа статистики посещении
+function ajax_search_stats(){
+	$("#search_results").show();
+	$("#search_results").load('./stats_find.php');	
 }
 
  //функция отображения заявок по выбранному курсу

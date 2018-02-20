@@ -1,3 +1,4 @@
+<?php include 'stats/stats_count.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
